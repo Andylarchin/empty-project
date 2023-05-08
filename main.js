@@ -22,3 +22,9 @@ document.querySelector('#app').innerHTML = `
 `
 
 setupCounter(document.querySelector('#counter'))
+
+
+
+const player_1 = ('x')
+const player_2 = ('o')
+
